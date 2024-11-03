@@ -1,5 +1,6 @@
 title: Guy Arnold Djolaud
 image_path: "./my-photo.png"
+image_local: "./my-photo.png"
 theme: jekyll-theme-minimal 
 
 
